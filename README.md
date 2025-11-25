@@ -49,4 +49,10 @@ User → CCAH Scripts → CDP CLI → CDP Control Plane → DL/DH/Backup APIs
 ---
 
 ## 📁 Repository Structure
-
+cloudera-cloud-automation-hub/
+│── scripts/
+│── python/
+│── docs/
+│── examples/
+│── LICENSE
+│── README.md
